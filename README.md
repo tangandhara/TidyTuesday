@@ -1,8 +1,8 @@
 # TidyTuesday
 
-I've used RStudio on and off for a while but never remainded consistent with it so for 2023 I'm committing to using it more consistently. 
-I've been impressed with the TidyTuesday projects I've seen online so will be dumping the code here for the weekly challenges.
-Thanks in advance to everyone on Twitter's #RStats and #TidyTuesday community for support, inspiration, and for sharing your code!  
+I've used RStudio on and off for a while but have never been too consistent with so for 2023 I'm committing to consistency. 
+I've been impressed with the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) projects I've seen online so will be sharing the code here that I've used for the weekly challenges.
+Thanks in advance to everyone on Twitter's [#RStats](https://twitter.com/hashtag/RStats) and #TidyTuesday community for support, inspiration, and for sharing your code!  
 
 | Year | Week | Data |
 | :---: | :---: | :--- | 
