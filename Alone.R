@@ -46,13 +46,16 @@ spdf_can_fortified <- merge(spdf_can_fortified, temp_df, by="id")
 #rename the state name to match survivalists df
 spdf_can_fortified <- rename(spdf_can_fortified, state = PRENAME)
 
+## join everything 
+home2 <- left_join(home2, spdf_us_fortified, by ="state")
+home2 <- left_join(home2, spdf_can_fortified, by ="state")
 
 ## maps the plot the final result - updated to include state borders
 
 ggplot(home2) +
   geom_polygon(spdf_can_fortified, mapping=aes( x = long, y = lat, group = group ),fill = "white", color="grey", size = 0.5)+
   geom_polygon(spdf_us_fortified, mapping=aes( x = long, y = lat, group = group),fill = "white", color="grey")+
-  geom_polygon(aes( x = long.x, y = lat.x, group = group.x,fill=survivalists),color="white",size = 0.03)+
+  geom_polygon(aes( x = long.x, y = lat.x, group = group.x,fill=survivalists),color="grey",size = 0.03)+
   scale_fill_distiller(palette='RdYlGn', breaks = c(1,3,5,7,9,11))+
   theme_void()+
   coord_map()+
