@@ -47,11 +47,12 @@ spdf_can_fortified <- merge(spdf_can_fortified, temp_df, by="id")
 spdf_can_fortified <- rename(spdf_can_fortified, state = PRENAME)
 
 
-## maps the plot the final result
+## maps the plot the final result - updated to include state borders
 
-ggplot(home2, ) +
+ggplot(home2) +
+  geom_polygon(spdf_can_fortified, mapping=aes( x = long, y = lat, group = group ),fill = "white", color="grey", size = 0.5)+
+  geom_polygon(spdf_us_fortified, mapping=aes( x = long, y = lat, group = group),fill = "white", color="grey")+
   geom_polygon(aes( x = long.x, y = lat.x, group = group.x,fill=survivalists),color="white",size = 0.03)+
-  geom_polygon(aes( x = long.y, y = lat.y, group = group.y,fill=survivalists),color="white",size = 0.03)+
   scale_fill_distiller(palette='RdYlGn', breaks = c(1,3,5,7,9,11))+
   theme_void()+
   coord_map()+
@@ -74,3 +75,6 @@ ggplot(home2, ) +
        subtitle = "Where do American & Canadian surivalists live?",
        fill="Number of\nsurvivalists",
        caption = "\n#TidyTuesday 2023 - Week 04 | Viz: @tangandhara")
+
+### Save plot
+ggsave("Alone.jpg", width = 10, height = 10, units = "in", dpi = 300)
