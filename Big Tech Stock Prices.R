@@ -33,7 +33,7 @@ high$company = NULL
 high = filter(high, date >= "2020-01-01")
 
 ## Filter data to FAANG stocks after 2020
-df2 <- filter(df, company %in% c("Apple Inc." , "Amazon.com, Inc.", "Alphabet Inc.", "Meta Platforms, Inc.", "Netflix, Inc."), date >= "2020-01-01")
+df2 <- filter(df, company %in% c("Apple" , "Amazon.com", "Alphabet", "Meta Platforms", "Netflix"), date >= "2020-01-01")
 
 ## Plot
 
