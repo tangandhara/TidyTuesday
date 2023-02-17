@@ -9,3 +9,4 @@ Thanks in advance to everyone on Twitter's [#RStats](https://twitter.com/hashtag
 2023 | 03 | [Art History](https://github.com/tangandhara/TidyTuesday/blob/main/2023_Week03_ArtHistory.R)
 2023 | 04 | [Alone](https://github.com/tangandhara/TidyTuesday/blob/main/Alone.R)
 2023 | 06 | [Big Tech Stock Prices](https://github.com/tangandhara/TidyTuesday/blob/main/Big%20Tech%20Stock%20Prices.R)
+2023 | 07 | [Hollywood Age Gaps](https://github.com/tangandhara/TidyTuesday/blob/main/Hollywood%20Age%20Gaps.R)
