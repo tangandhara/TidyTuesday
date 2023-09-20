@@ -13,3 +13,4 @@ Thanks in advance to everyone on Twitter's [#RStats](https://twitter.com/hashtag
 2023 | 08 | [Bob Ross Paintings](https://github.com/tangandhara/TidyTuesday/blob/main/Scripts/Bob_Ross.R) | [Plot](https://github.com/tangandhara/TidyTuesday/blob/main/Plots/Bob_Ross_plot.jpeg)
 2023 | 09 | [AfriSenti](https://github.com/tangandhara/TidyTuesday/blob/main/Scripts/AfriSenti.R) | [Plot](https://github.com/tangandhara/TidyTuesday/blob/main/Plots/AfriSenti.jpg)
 2023 | 34 | [Refugees](https://github.com/tangandhara/TidyTuesday/blob/main/Scripts/Refugees.R) | [Plot](https://github.com/tangandhara/TidyTuesday/blob/main/Plots/W34%20-Refugees.jpeg)
+2023 | 37 | [The Global Human Day] | [Plot]
