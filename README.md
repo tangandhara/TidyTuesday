@@ -14,3 +14,4 @@ Thanks in advance to everyone on Twitter's [#RStats](https://twitter.com/hashtag
 2023 | 09 | [AfriSenti](https://github.com/tangandhara/TidyTuesday/blob/main/Scripts/AfriSenti.R) | [Plot](https://github.com/tangandhara/TidyTuesday/blob/main/Plots/AfriSenti.jpg)
 2023 | 34 | [Refugees](https://github.com/tangandhara/TidyTuesday/blob/main/Scripts/Refugees.R) | [Plot](https://github.com/tangandhara/TidyTuesday/blob/main/Plots/W34%20-Refugees.jpeg)
 2023 | 37 | [The Global Human Day](https://github.com/tangandhara/TidyTuesday/blob/main/Scripts/W37%20-%20Global%20Human%20Day.R) | [Plot](https://github.com/tangandhara/TidyTuesday/blob/main/Plots/Global%20Human%20day.jpeg)
+2023 | 39 | [Roy Kent F-k count](https://github.com/tangandhara/TidyTuesday/blob/main/Scripts/W39%20-%20Roy%20Kent%20F-k%20count.R) | [Plot](https://github.com/tangandhara/TidyTuesday/blob/main/Plots/W39_Roy_Kent_F-k_count.jpeg)
