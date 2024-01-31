@@ -3,7 +3,10 @@
 I've been impressed with the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) projects I've seen online so will be sharing the code here that I've used for the weekly challenges.
 Thanks in advance to everyone on Twitter's [#RStats](https://twitter.com/hashtag/RStats) and [#TidyTuesday](https://twitter.com/hashtag/TidyTuesday)  community for support, inspiration, and for sharing your code. Although, I'm more likely to be using Bluesky and its burgeoning [RStats](https://bsky.app/profile/did:plc:2zcfjzyocp6kapg6jc4eacok/feed/aaaeckvqc3gzg) community in 2024.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c44651bca9460d4e1d220c0b3197508867e87bb0
 | Year | Week | Data | More
 | :---: | :---: | :--- | :--- | 
 2023 | 03 | [Art History](https://github.com/tangandhara/TidyTuesday/blob/main/Scripts/2023_Week03_ArtHistory.R) | 
