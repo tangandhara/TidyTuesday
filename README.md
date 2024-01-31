@@ -19,3 +19,4 @@ Thanks in advance to everyone on Twitter's [#RStats](https://twitter.com/hashtag
 2023 | 37 | [The Global Human Day](https://github.com/tangandhara/TidyTuesday/blob/main/Scripts/W37%20-%20Global%20Human%20Day.R) | [Plot](https://github.com/tangandhara/TidyTuesday/blob/main/Plots/Global%20Human%20day.jpeg)
 2023 | 39 | [Roy Kent F-k count](https://github.com/tangandhara/TidyTuesday/blob/main/Scripts/W39%20-%20Roy%20Kent%20F-k%20count.R) | [Plot](https://github.com/tangandhara/TidyTuesday/blob/main/Plots/W39_Roy_Kent_F-k_count.jpeg)
 2024 | 4 | [Educational attainment of young people in English towns](https://github.com/tangandhara/TidyTuesday/tree/main/data/2024/2024-01-23) | [Shiny App](https://tangandhara.shinyapps.io/2024-01-23/)
+2024 | 5 | [Groundhog predictions](https://github.com/tangandhara/TidyTuesday/blob/main/data/2024/2024-01-30/groundhog_day.R) | [Plot](https://github.com/tangandhara/TidyTuesday/blob/main/Plots/myplot_wk5.jpg)
